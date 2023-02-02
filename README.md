@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamPrewitt
-- 👀 I’m enjoy everything from working on low level embedded systems to building .NET Enterprise Applications!
+- 👀 I enjoy working on everything from low level embedded systems to .NET Enterprise Applications!
 - 🌱 I’m currently learning the Rust programming language. 
 
 <!---
